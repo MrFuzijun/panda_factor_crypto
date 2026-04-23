@@ -1,0 +1,2 @@
+# panda_factor_crypto
+源自项目方Pandaai发行的panda_factor因子挖掘工作流，本项目将数据源做了更换，让其适应加密市场。
