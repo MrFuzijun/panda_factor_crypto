@@ -1,3 +1,10 @@
+"""
+原创作者：PandaAI-Tech （pandaai)
+二创作者:fuzijun
+全网搜甫子君联系商用授权，最终授权必须由pandaai授权给予商用；
+授权流程：提交作者商用授权-->提交主办方商用授权-->作者授权成功-->主办方pandaai授权成功-->给予商用授权。
+侵权必究！！！
+"""
 import pandas as pd
 import numpy as np
 import os
